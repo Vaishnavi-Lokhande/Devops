@@ -1,0 +1,2 @@
+git is a distributed version controll system.
+DVCS are working fine on offline mode as a client copies the entire repository on their local machine.
